@@ -5,14 +5,20 @@
 - 📫 How to reach me jc3568248@gmail.com 
 
 ![image](https://user-images.githubusercontent.com/90236160/211440197-ea5db07a-4825-4cfa-b08f-6488b833fc1e.png)
-Poseo habilidades blandas como:
 
--Comunicacion asertiva
--Trabajo en equipo
--Manejo del estres
--Gestion del Tiempo
--Productividad Personal
--Inteligencia Emocional
+I have soft skills like:
+
+-*Assertive communication*
+
+-*Teamwork*
+
+-*Manejo del estres*
+
+-*Stress management*
+
+-*Personal Productivity*
+
+-*Emotional Intelligence*
 
 <!---
 AnalizaJech/AnalizaJech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
