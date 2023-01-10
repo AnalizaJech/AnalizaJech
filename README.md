@@ -1,24 +1,22 @@
-- 👋 Hi, I’m Jorge Enrique Caceres Hernandez some know me as @AnalizaJech
-- 👀 I’m interested in learn
-- 🌱 I’m currently learning while I am teaching
-- 💞️ I'm looking for a joint collaboration
-- 📫 How to reach me jc3568248@gmail.com 
+👋Hola soy Jorge Enrique Caceres Hernandez algunos me conocen como @AnalizaJech
+👀estoy interesado en aprender
+🌱Actualmente estoy aprendiendo mientras estoy enseñando
+💞️busco colaboracion conjunta
+📫Cómo contactarme jc3568248@gmail.com
+👨🏻‍💻Desaroollador Web Front-End
+Tengo habilidades blandas como:
 
-![image](https://user-images.githubusercontent.com/90236160/211440197-ea5db07a-4825-4cfa-b08f-6488b833fc1e.png)
+- *Comunicación asertiva*
 
-I have soft skills like:
+- *Trabajo en equipo*
 
--*Assertive communication*
+- *anejo del estrés*
 
--*Teamwork*
+- *Manejo del estrés*
 
--*Manejo del estres*
+- *Productividad Personal*
 
--*Stress management*
-
--*Personal Productivity*
-
--*Emotional Intelligence*
+- *Inteligencia Emocional*
 
 <!---
 AnalizaJech/AnalizaJech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
