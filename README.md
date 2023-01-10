@@ -1,9 +1,15 @@
 👋Hola soy Jorge Enrique Caceres Hernandez algunos me conocen como @AnalizaJech
+
 👀estoy interesado en aprender
+
 🌱Actualmente estoy aprendiendo mientras estoy enseñando
+
 💞️busco colaboracion conjunta
+
 📫Cómo contactarme jc3568248@gmail.com
+
 👨🏻‍💻Desaroollador Web Front-End
+
 Tengo habilidades blandas como:
 
 - *Comunicación asertiva*
