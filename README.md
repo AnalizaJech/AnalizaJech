@@ -8,7 +8,7 @@
 
 📫Cómo contactarme jc3568248@gmail.com
 
-👨🏻‍💻Desaroollador Web Front-End
+👨🏻‍💻Desarrollador Web Front-End
 
 Tengo habilidades blandas como:
 
