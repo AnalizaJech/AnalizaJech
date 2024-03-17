@@ -64,11 +64,11 @@ Hola, soy Jorge Enrique Caceres Hernandez, un apasionado desarrollador y diseña
 
 ## 📚 Proyectos Destacados
 
-### [Proyecto 1: Desarrollo de Sitio Web Responsivo con Bootstrap]([https://tuproject1url.com](https://bancocrecer.netlify.app))
+### [Proyecto 1: Banco Crecer]([https://tuproject1url.com](https://bancocrecer.netlify.app))
 - Descripción: Creación de un sitio web moderno y responsivo utilizando Bootstrap 5.
 - Tecnologías Utilizadas: HTML5, CSS3, Bootstrap 5.
 
-### [Proyecto 2: Aplicación Web con Laravel](https://tuproject2url.com)
+### [Proyecto 2: Libreria]([https://tuproject2url.com](https://analizajech.github.io/Libreria/))
 - Descripción: Desarrollo de una aplicación web utilizando el framework Laravel para la gestión de usuarios y contenido.
 - Tecnologías Utilizadas: Laravel, PHP, MySQL.
 
