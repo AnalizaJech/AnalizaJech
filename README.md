@@ -78,7 +78,19 @@ Hola, soy Jorge Enrique Caceres Hernandez, un apasionado desarrollador y diseña
 
 ¡No olvides visitar mi canal de YouTube para obtener contenido exclusivo sobre programación, diseño, producción musical y mucho más!
 
-[![YouTube Channel](https://img.icons8.com/fluency/96/000000/youtube-play.png)](https://www.youtube.com/channel/UC36JJMNwCzg4o1LL1b1mEjA)
+<!--[![YouTube Channel](https://img.icons8.com/fluency/96/000000/youtube-play.png)](https://www.youtube.com/channel/UC36JJMNwCzg4o1LL1b1mEjA)-->
+
+[![Video 1](https://img.youtube.com/vi/ZtC5TGLyKJs/mqdefault.jpg)](https://www.youtube.com/watch?v=ZtC5TGLyKJs&list=PLpfoOjtLjnzv2uaMJ48nTA0fvcL26IKM0&ab_channel=AnalizaJech)
+[![Video 2](https://img.youtube.com/vi/v7PZQoyip9M/mqdefault.jpg)](https://www.youtube.com/watch?v=v7PZQoyip9M&list=PLpfoOjtLjnzv2uaMJ48nTA0fvcL26IKM0&index=2&ab_channel=AnalizaJech)
+[![Video 3](https://img.youtube.com/vi/nyHikqNBsbQ/mqdefault.jpg)](https://www.youtube.com/watch?v=nyHikqNBsbQ&t=75s&ab_channel=AnalizaJech)
+[![Video 4](https://img.youtube.com/vi/yz5FG9zQPOg/mqdefault.jpg)](https://www.youtube.com/watch?v=yz5FG9zQPOg&t=284s&ab_channel=AnalizaJech)
+[![Video 5](https://img.youtube.com/vi/QepRrGCdUm4/mqdefault.jpg)](https://www.youtube.com/watch?v=QepRrGCdUm4&t=1110s&ab_channel=AnalizaJech)
+[![Video 6](https://img.youtube.com/vi/FK3ybW4-rk4/mqdefault.jpg)](https://www.youtube.com/watch?v=FK3ybW4-rk4&t=2043s)
+[![Video 7](https://img.youtube.com/vi/X7C6HkItqyE/mqdefault.jpg)](https://www.youtube.com/watch?v=X7C6HkItqyE&t=87s)
+[![Video 8](https://img.youtube.com/vi/iPPCYmTR9kE/mqdefault.jpg)](https://www.youtube.com/watch?v=iPPCYmTR9kE&t=587s)
+[![Video 9](https://img.youtube.com/vi/R1_PvQ6rs1w/mqdefault.jpg)](https://www.youtube.com/watch?v=R1_PvQ6rs1w&t=948s)
+[![Video 10](https://img.youtube.com/vi/-HyAx_SLAKM/mqdefault.jpg)](https://www.youtube.com/watch?v=-HyAx_SLAKM)
+
 
 ---
 
