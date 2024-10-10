@@ -72,6 +72,11 @@ Hola, soy Jorge Enrique Caceres Hernandez, un apasionado desarrollador y diseña
 - Descripción: Desarrollo de una aplicación web utilizando el framework Laravel para la gestión de usuarios y contenido.
 - Tecnologías Utilizadas: Laravel, PHP, MySQL.
 
+### [Proyecto 3: TechScan](https://analizajech.github.io/Tech-Scan/)
+- Descripción: Desarrollo de un sistema de diagnóstico de hardware de computadoras basado en preguntas y condiciones específicas. El sistema permite al usuario identificar posibles problemas en componentes como la RAM, disco duro, procesador y otros, ofreciendo recomendaciones basadas en los síntomas seleccionados.
+- Tecnologías Utilizadas: HTML, Tailwind CSS, JavaScript, Font Awesome.
+
+
 ---
 
 ## 📹 Canal de YouTube
