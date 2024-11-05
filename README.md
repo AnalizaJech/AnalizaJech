@@ -76,6 +76,15 @@ Hola, soy Jorge Enrique Caceres Hernandez, un apasionado desarrollador y diseña
 - Descripción: Desarrollo de un sistema de diagnóstico de hardware de computadoras basado en preguntas y condiciones específicas. El sistema permite al usuario identificar posibles problemas en componentes como la RAM, disco duro, procesador y otros, ofreciendo recomendaciones basadas en los síntomas seleccionados.
 - Tecnologías Utilizadas: HTML, Tailwind CSS, JavaScript, Font Awesome.
 
+### [Proyecto 4: InnovaSoft](https://analizajech.github.io/InnovaSoft/)
+- **Descripción**: Desarrollo de una plataforma educativa enfocada en la enseñanza didáctica sobre normas ISO y gestión de proyectos. InnovaSoft ofrece una serie de módulos interactivos que facilitan el aprendizaje sobre estándares ISO, cubriendo temas como ISO 9001 (gestión de calidad), ISO 27001 (seguridad de la información), y otras normativas clave. Los usuarios pueden aprender a través de cuestionarios, ejemplos prácticos y simulaciones de escenarios reales aplicables a diversas industrias.
+  
+- **Tecnologías Utilizadas**: HTML, Tailwind CSS, JavaScript, Font Awesome.
+
+
+
+
+
 
 ---
 
@@ -103,7 +112,7 @@ Hola, soy Jorge Enrique Caceres Hernandez, un apasionado desarrollador y diseña
 
 ¡Estaré encantado de conectarme contigo! Puedes encontrarme en:
 
- [<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://www.linkedin.com/in/jorge-enrique-c%C3%A1ceres-hern%C3%A1ndez-ab84b7222/)
+ [<img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>](https://www.linkedin.com/in/analizajech/)
  [<img src="https://img.icons8.com/fluency/48/000000/email-open.png"/>](mailto:jc3568248@gmail.com)
  [<img src="https://img.icons8.com/fluency/48/000000/domain.png"/>](https://www.tusitio.com)
 
