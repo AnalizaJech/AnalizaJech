@@ -1,96 +1,103 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Analiza Jech — Diseño con intención. Código con curiosidad." width="100%">
+<img src="assets/banner.svg" alt="Analiza Jech. Diseño y desarrollo de experiencias digitales." width="100%">
 
 # Jorge Enrique Cáceres Hernández
 
-**Frontend Developer · UX/UI Designer · Creador de contenido**
+**Frontend Developer · UX/UI Designer**
 
-Conecto diseño y código para convertir ideas en experiencias claras, útiles y con personalidad.
+Diseño interfaces claras y construyo herramientas que puedes usar en el navegador.
 
-[Explora mi portafolio ↗](https://analizajech.github.io/) · [Hablemos](https://analizajech.github.io/#contact) · [LinkedIn](https://www.linkedin.com/in/analizajech/) · [YouTube](https://www.youtube.com/@analizajech)
+[![Portafolio](https://img.shields.io/badge/Portafolio-3264ff?style=for-the-badge)](https://analizajech.github.io/)
+[![Contacto](https://img.shields.io/badge/Contacto-172237?style=for-the-badge)](https://analizajech.github.io/#contact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/analizajech/)
+[![YouTube](https://img.shields.io/badge/YouTube-c83545?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@analizajech)
 
 </div>
 
----
+## Diseño con intención. Código con curiosidad.
 
-## De la curiosidad al producto
+Soy Jorge, conocido como **Analiza Jech**. Combino desarrollo frontend y diseño UX/UI: desde flujos y prototipos en Figma hasta interfaces responsive con JavaScript, TypeScript y React.
 
-Soy Jorge, también conocido como **Analiza Jech**. Trabajo en desarrollo frontend y diseño UX/UI: me interesa entender a las personas, dar estructura a sus ideas y construir interfaces que resulten cómodas de usar.
+Mi experiencia incluye aplicaciones móviles, interfaces para educación y sistemas web internos. En mis proyectos personales exploro edición de documentos, arquitectura cloud e interacción 3D. También comparto tutoriales sobre tecnología y creatividad.
 
-Comparto lo que aprendo sobre programación, diseño, producción musical y edición de video. Mis proyectos son un espacio para explorar, experimentar y llevar esas ideas al navegador.
+## Proyectos destacados
 
-## Proyectos que puedes probar
+### 01 / Markdown Studio Pro
 
-### 01 · Markdown Studio Pro
+Un editor para escribir, visualizar y exportar documentos con Markdown, diagramas y ecuaciones. Incluye guardado local y modos de concentración.
 
-**De la idea al documento.** Editor Markdown con vista previa, diagramas, ecuaciones y exportación. Temas claro y oscuro, modos de concentración y guardado local.
+<img src="assets/markdown-studio.webp" alt="Vista real de Markdown Studio Pro" width="100%">
 
-[![Captura real de Markdown Studio Pro](assets/markdown-studio.webp)](https://analizajech.github.io/markdown-studio-pro/)
+![TypeScript](https://img.shields.io/badge/TypeScript-172237?style=flat-square&logo=typescript&logoColor=white) ![Mermaid](https://img.shields.io/badge/Mermaid-172237?style=flat-square&logo=mermaid&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-172237?style=flat-square&logo=markdown&logoColor=white)
 
-`TypeScript` · `Markdown` · `Mermaid` · `Offline`
+[![Ver demo](https://img.shields.io/badge/Ver%20demo-3264ff?style=for-the-badge)](https://analizajech.github.io/markdown-studio-pro/)
+[![Código](https://img.shields.io/badge/C%C3%B3digo-172237?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnalizaJech/markdown-studio-pro)
 
-[**Abrir demo ↗**](https://analizajech.github.io/markdown-studio-pro/) · [Explorar código](https://github.com/AnalizaJech/markdown-studio-pro)
 
-### 02 · Cloud Architect Studio
+### 02 / Cloud Architect Studio
 
-**La arquitectura, en un lienzo.** Editor visual para conectar componentes cloud, organizar diagramas y exportarlos. Guardado local y soporte sin conexión.
+Un lienzo visual para construir arquitecturas cloud: conecta componentes, personaliza nodos y exporta diagramas. Incluye persistencia local y soporte sin conexión.
 
-[![Diagrama de ejemplo en Cloud Architect Studio](assets/cloud-architect.webp)](https://analizajech.github.io/cloud-architect-studio/)
+<img src="assets/cloud-architect.webp" alt="Vista real de Cloud Architect Studio" width="100%">
 
-`JavaScript` · `SVG` · `IndexedDB` · `PWA`
+![JavaScript](https://img.shields.io/badge/JavaScript-172237?style=flat-square&logo=javascript&logoColor=white) ![SVG](https://img.shields.io/badge/SVG-172237?style=flat-square&logo=svg&logoColor=white) ![IndexedDB](https://img.shields.io/badge/IndexedDB-172237?style=flat-square&logo=databricks&logoColor=white)
 
-[**Abrir demo ↗**](https://analizajech.github.io/cloud-architect-studio/) · [Explorar código](https://github.com/AnalizaJech/cloud-architect-studio)
+[![Ver demo](https://img.shields.io/badge/Ver%20demo-3264ff?style=for-the-badge)](https://analizajech.github.io/cloud-architect-studio/)
+[![Código](https://img.shields.io/badge/C%C3%B3digo-172237?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnalizaJech/cloud-architect-studio)
 
-### 03 · TwistyLab
 
-**Practica. Explora. Encuentra tu ritmo.** Un espacio de speedcubing con cronómetro, puzzles 3D, resolución virtual, estadísticas y sesiones guardadas en el navegador.
+### 03 / TwistyLab
 
-[![Cronómetro y puzzle 3D de TwistyLab](assets/twistylab.webp)](https://analizajech.github.io/twistylab/)
+Un laboratorio de speedcubing con cronómetro, puzzles 3D, resolución virtual, estadísticas y sesiones guardadas en el navegador.
 
-`React` · `TypeScript` · `cubing.js` · `PWA`
+<img src="assets/twistylab.webp" alt="Vista real de TwistyLab" width="100%">
 
-[**Abrir demo ↗**](https://analizajech.github.io/twistylab/) · [Explorar código](https://github.com/AnalizaJech/twistylab)
+![React](https://img.shields.io/badge/React-172237?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-172237?style=flat-square&logo=typescript&logoColor=white) ![cubing.js](https://img.shields.io/badge/cubing.js-172237?style=flat-square&logo=threedotjs&logoColor=white)
 
-<details>
-<summary><strong>Más proyectos del recorrido</strong></summary>
+[![Ver demo](https://img.shields.io/badge/Ver%20demo-3264ff?style=for-the-badge)](https://analizajech.github.io/twistylab/)
+[![Código](https://img.shields.io/badge/C%C3%B3digo-172237?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnalizaJech/twistylab)
 
-| Proyecto | Qué puedes explorar |
-| :--- | :--- |
-| [Banco Crecer](https://analizajech.github.io/Banco-Crecer/) | Sitio web adaptable construido con Bootstrap. |
-| [TechScan](https://analizajech.github.io/Tech-Scan/) | Diagnóstico de hardware basado en síntomas. |
-| [InnovaSoft](https://analizajech.github.io/InnovaSoft/) | Aprendizaje interactivo sobre normas ISO y gestión de proyectos. |
-| [JechCommerce](https://www.loom.com/share/4a1e0fb5c3f74c4d9f7b5e071d6a9b66) | Demostración de ecommerce con usuarios, productos y autenticación. |
-| [Librería](https://www.youtube.com/watch?v=nGi3DS0QSzE) | Aplicación Laravel para gestión de usuarios y contenido. |
 
-</details>
+## Tecnologías y prácticas
 
-## Mi caja de herramientas
+**Frontend**
 
-| Área | Tecnologías y prácticas |
-| :--- | :--- |
-| **Frontend** | HTML, CSS, JavaScript, TypeScript, React, Angular, Tailwind CSS, Bootstrap |
-| **Diseño UX/UI** | Figma, wireframes, prototipado, diseño responsive, usabilidad |
-| **Backend y datos** | PHP, Laravel, Node.js, NestJS, MySQL, PostgreSQL, SQL Server |
-| **Colaboración** | Git, GitHub, Scrum, Kanban, comunicación y trabajo en equipo |
+![React](https://img.shields.io/badge/React-172237?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-172237?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-172237?style=flat-square&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-172237?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-172237?style=flat-square&logo=css&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-172237?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-172237?style=flat-square&logo=bootstrap&logoColor=white)
 
-## Aprender en voz alta
 
-En [**mi canal de YouTube**](https://www.youtube.com/@analizajech) comparto tutoriales y exploraciones sobre programación, diseño y creatividad.
+**Diseño UX/UI**
 
-[![Explora los videos de Analiza Jech](https://img.youtube.com/vi/ZtC5TGLyKJs/hqdefault.jpg)](https://www.youtube.com/@analizajech)
 
-## Construyamos algo juntos
+![Figma](https://img.shields.io/badge/Figma-172237?style=flat-square&logo=figma&logoColor=white)
 
-¿Un proyecto web, una colaboración o una idea por explorar?
 
-[**Envíame un mensaje desde el portafolio ↗**](https://analizajech.github.io/#contact)
+Flujos de usuario, wireframes, prototipos de alta fidelidad, componentes reutilizables, Material Design, Human Interface Guidelines y diseño responsive.
 
-[Email](mailto:jc3568248@gmail.com) · [LinkedIn](https://www.linkedin.com/in/analizajech/) · [GitHub](https://github.com/AnalizaJech) · [Instagram](https://www.instagram.com/analizajech/) · [TikTok](https://www.tiktok.com/@analizajech)
+**Backend y colaboración**
 
----
+![PHP](https://img.shields.io/badge/PHP-172237?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-172237?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-172237?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-172237?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-172237?style=flat-square&logo=github&logoColor=white)
+
+
+Scrum, Kanban y documentación de decisiones de diseño.
+
+## Más del recorrido
+
+Banco Crecer, TechScan, InnovaSoft y otros proyectos están disponibles con vistas previas en el portafolio.
+
+[![Explorar proyectos](https://img.shields.io/badge/Explorar%20proyectos-3264ff?style=for-the-badge)](https://analizajech.github.io/#projects)
+
+
+## Conectemos
+
+Para oportunidades de desarrollo frontend, diseño UX/UI o colaboraciones:
+
+[![Enviar mensaje](https://img.shields.io/badge/Enviar%20mensaje-3264ff?style=for-the-badge)](https://analizajech.github.io/#contact)
+[![Email](https://img.shields.io/badge/Email-172237?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jc3568248@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/analizajech/)
+[![Instagram](https://img.shields.io/badge/Instagram-172237?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/analizajech/)
+
 
 <div align="center">
-<sub>Diseño con intención. Código con curiosidad.</sub>
+<sub>Interfaces con claridad. Experiencias con personalidad.</sub>
 </div>
-
